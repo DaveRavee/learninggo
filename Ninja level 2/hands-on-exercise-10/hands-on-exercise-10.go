@@ -3,10 +3,10 @@ package main
 import "fmt"
 
 const (
-	thisyear = 2020 + iota
-	nextyear = 2020 + iota
-	nextnextyear = 2020 + iota
-	nextnextnextyear = 2020 + iota
+	thisyear             = 2020 + iota
+	nextyear             = 2020 + iota
+	nextnextyear         = 2020 + iota
+	nextnextnextyear     = 2020 + iota
 	nextnextnextnextyear = 2020 + iota
 )
 
