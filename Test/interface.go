@@ -18,16 +18,10 @@ type shape interface {
 }
 
 func main() {
-	c := circle {
-		radius: 21.2,
+	c := circle{
+		radius: 22.0,
 	}
 
-	l := square {
-		length: 12.6,
-	}
-
-
-	info(l)
 	info(c)
 }
 
